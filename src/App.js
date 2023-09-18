@@ -55,6 +55,7 @@ function App() {
                 width: "auto",
                 height: "auto",
               }}
+              loading="lazy"
             />
           </div>
         )}
