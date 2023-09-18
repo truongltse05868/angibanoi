@@ -19,6 +19,10 @@ const foodData = [
     name: "Lẩu Manwah",
     image: "images/manwa.jpg",
   },
+  {
+    name: "Lẩu Riêu",
+    image: "images/manwa.jpg",
+  },
 ];
 
 export default foodData;
