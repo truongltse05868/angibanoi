@@ -1,4 +1,4 @@
-const foodData = [
+export const foodData = [
   {
     name: "Ốc Tô",
     image: "https://nhaphonet.vn/wp-content/uploads/2023/05/oc-to-sai-gon-lang-ha-4.jpg",
@@ -25,4 +25,15 @@ const foodData = [
   },
 ];
 
-export default foodData;
+export const drinks = [
+  {
+    name: "Coca cola",
+    image: "https://www.coca-cola.com/content/dam/onexp/vn/home-image/coca-cola/Coca-Cola_OT%20320ml_VN-EX_Desktop.png",
+  },
+  {
+    name: "Bia",
+    image: "https://www.coca-cola.com/content/dam/onexp/vn/home-image/coca-cola/Coca-Cola_OT%20320ml_VN-EX_Desktop.png",
+  },
+];
+
+
